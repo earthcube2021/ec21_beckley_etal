@@ -1,0 +1,10 @@
+{
+    "title": "Programmatic Access to OpenTopography’s Cloud Optimized GeoTIFF (COG) Global Datasets",
+    "creators": [
+           {"name": "Matthew Beckley", "affiliation": "UNAVCO, Inc."},
+    {"name": "Christopher Crosby", "affiliation": "UNAVCO, Inc.",  "orcid": "0000-0003-2522-4193"},
+    {"name": "Viswanath Nandigam", "affiliation": "San Diego Supercomputer Center, UC San Diego",  "orcid": "0000-0003-0928-9851"},
+    {"name": "Minh Phan", "affiliation": "San Diego Supercomputer Center, UC San Diego", "orcid":"0000-0002-2806-5450"}  
+    ],
+    "keywords": ["COG", "OpenTopography", "SRTM", "GDAL", "VRT"]
+}
